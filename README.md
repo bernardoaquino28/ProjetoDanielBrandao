@@ -11,7 +11,7 @@ Este projeto apresenta as principais páginas do site: Home, Sobre, Cardápio e 
 
 - Página inicial com apresentação do restaurante.
 - Página Sobre com história e valores.
-- Cardápio dividido em jantares e sobremesas, com descrição e preços.
+- Cardápio dividido em jantares e sobremesas, com descrição.
 - Formulário de contato para reservas e mensagens.
 - Menu de navegação fixo e responsivo.
 - Layout moderno com cards para o cardápio.
@@ -48,11 +48,9 @@ Este projeto apresenta as principais páginas do site: Home, Sobre, Cardápio e 
 1. Clone este repositório:
 git clone https://github.com/bernardoaquino28/ProjetoDanielBrandao.git
 
-text
 2. Navegue até a pasta do projeto:
 cd ProjetoDanielBrandao
 
-text
 3. Abra qualquer arquivo `.html` no seu navegador preferido (ex: `home.html`).
 
 
