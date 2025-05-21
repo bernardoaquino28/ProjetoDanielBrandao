@@ -1,0 +1,61 @@
+Documentação do Projeto: Site Restaurante Centrou
+1. Introdução
+O projeto consiste em um site institucional para o restaurante fictício Centrou, localizado no centro da cidade, com 40 anos de tradição na culinária típica nordestina. O site apresenta as principais informações do restaurante, cardápio, contato e sobre a história do estabelecimento.
+
+2. Estrutura do Projeto
+Arquivos principais:
+home.html — Página inicial com apresentação do restaurante.
+
+sobre.html — Página com texto institucional sobre o restaurante.
+
+menu.html — Página com o cardápio contendo pratos tradicionais e sobremesas nordestinas.
+
+contato.html — Página com formulário para contato e reserva.
+
+styles.css — Arquivo CSS externo com a estilização do site.
+
+imagens — Pasta contendo imagens usadas no site (logo.png, prato-principal.jpg, etc).
+
+3. Requisitos Atendidos
+Aplicação web com interface apresentável e amigável.
+
+Navegação com pelo menos 4 links de menu (Home, Sobre, Cardápio, Contato).
+
+Identidade visual consistente com cores quentes (tons de laranja) e logo.
+
+Uso de formulário funcional para contato/reserva.
+
+Boas práticas de desenvolvimento: uso correto de tags HTML semânticas, CSS externo, indentação e organização do código.
+
+Conteúdo dividido em páginas separadas para melhor organização.
+
+4. Descrição das Páginas
+4.1 home.html
+Apresenta o restaurante com uma breve mensagem de boas-vindas.
+
+Imagem ilustrativa do prato principal.
+
+Menu de navegação com links para as outras páginas.
+
+4.2 sobre.html
+Texto institucional explicando a história e tradição do Centrou.
+
+Texto formatado em parágrafos para melhor leitura.
+
+Menu ativo na aba "Sobre".
+
+4.3 menu.html
+Cardápio dividido em duas seções: Jantares e Sobremesas.
+
+Listagem das 5 comidas tradicionais nordestinas para jantar.
+
+Listagem das 5 sobremesas típicas da região.
+
+Layout simples e organizado para facilitar a leitura.
+
+4.4 contato.html
+Formulário com campos: Nome, E-mail, Telefone e Mensagem/Reserva.
+
+Validação básica com campos obrigatórios.
+
+Botão de envio estilizado.
